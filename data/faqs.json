@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What are your business hours?",
+    "answer": "We are open Monday through Friday, 9 AM to 6 PM EST. Our customer support team is available during these hours to assist you with any questions or concerns.",
+    "source": "general"
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "To reset your password: 1) Click 'Forgot Password' on the login page, 2) Enter your registered email address, 3) Check your email for a password reset link (check spam folder if needed), 4) Click the link and create a new secure password. The reset link is valid for 24 hours.",
+    "source": "account"
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "We offer a 30-day money-back guarantee on all purchases. If you're not completely satisfied with your purchase, contact our support team within 30 days for a full refund. The product must be in its original condition. Refunds are processed within 5-7 business days.",
+    "source": "billing"
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our customer support team through multiple channels: 1) This AI chat interface (24/7), 2) Email at support@example.com, 3) Phone at 1-800-123-4567 during business hours (9 AM - 6 PM EST), 4) Live chat on our website.",
+    "source": "general"
+  },
+  {
+    "question": "Do you offer technical support?",
+    "answer": "Yes! Our technical support team is available to help with any technical issues, setup questions, or troubleshooting. You can reach them through this chat interface, by email at tech@example.com, or by calling our dedicated tech support line at 1-800-TECH-HELP.",
+    "source": "technical"
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "To track your order: 1) Log into your account, 2) Go to 'My Orders', 3) Click on the order you want to track, 4) You'll see the tracking number and current status. You can also use the tracking number on the carrier's website for detailed updates.",
+    "source": "orders"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major payment methods including: Credit cards (Visa, MasterCard, American Express, Discover), Debit cards, PayPal, Apple Pay, Google Pay, and bank transfers. All transactions are secured with 256-bit SSL encryption.",
+    "source": "billing"
+  },
+  {
+    "question": "How long does shipping take?",
+    "answer": "Shipping times vary by location: Standard shipping takes 5-7 business days, Express shipping takes 2-3 business days, and Overnight shipping delivers the next business day. International shipping typically takes 10-15 business days. You'll receive tracking information once your order ships.",
+    "source": "shipping"
+  },
+  {
+    "question": "Can I change or cancel my order?",
+    "answer": "Yes, you can modify or cancel your order within 24 hours of placing it. After 24 hours, the order enters processing and cannot be changed. To request a change or cancellation, contact support immediately with your order number. If already shipped, you can use our return policy.",
+    "source": "orders"
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 100 countries worldwide. International shipping costs and delivery times vary by destination. Import duties and taxes may apply depending on your country's regulations. You can check shipping availability and costs at checkout by entering your address.",
+    "source": "shipping"
+  }
+]

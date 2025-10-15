@@ -1,0 +1,10 @@
+{
+  "watch": ["server.js", "src/**/*.js", "routes/**/*.js", "controllers/**/*.js"],
+  "ext": "js,json",
+  "ignore": ["node_modules/", "build/", "dist/"],
+  "exec": "node --experimental-modules server.js",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "delay": "1000"
+}
