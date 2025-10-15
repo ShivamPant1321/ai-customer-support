@@ -1,10 +1,9 @@
 # AI Customer Support Bot 🤖
 
-An intelligent customer support chatbot powered by Google Gemini AI with Retrieval-Augmented Generation (RAG) for accurate, context-aware responses. Features a modern React interface with dark mode, animations, and professional styling.
+An intelligent customer support chatbot powered by Google Gemini AI for accurate, context-aware responses. Features a modern React interface with dark mode, animations, and professional styling.
 
 ## ✨ Features
 
-- **🧠 RAG-powered responses**: Uses vector similarity search to find relevant FAQ answers
 - **🚀 Google Gemini 2.0 Flash** for natural language understanding
 - **🎯 Smart escalation**: Automatically escalates complex queries to human agents
 - **💾 Session management**: Maintains conversation context across messages
@@ -33,7 +32,6 @@ An intelligent customer support chatbot powered by Google Gemini AI with Retriev
 - **SQLite** - Lightweight database for development
 
 ### Features
-- **Vector Search** - In-memory cosine similarity for RAG
 - **Theme System** - Context-based dark/light mode
 - **Session Management** - Persistent conversations
 - **Message Formatting** - Clean text processing and rendering
